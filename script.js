@@ -15,7 +15,7 @@ function add1(idx) {
 
 
 
-
+//!--checking status of repo//
 
 //var count = 3;
 // var likeCounter = document.querySelector("#likeCounter")
