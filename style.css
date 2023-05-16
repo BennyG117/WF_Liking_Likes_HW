@@ -1,9 +1,47 @@
+/*! REMINDER RESET*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#page-container {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    width: 1000px;
+    min-height: 100px;
+    margin-bottom: 15px;
+}
+h1 {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    
+}
+h2 {
+    
+    text-align: center;
+}
+
+#column-container {
+    display: flex;
+}
+
+.my-profile {
+    
+}
+
+
 
 .some-user-1 {
     border: 3px solid black;
     min-width: 300px;
     min-height: 150px;
     padding: 15px;
+    margin-bottom: 10px;
+    
     
 }
 
@@ -11,6 +49,19 @@
     
 }
 
+.some-user-2 {
+    border: 3px solid black;
+    min-width: 300px;
+    min-height: 150px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
 
-
+.some-user-3 {
+    border: 3px solid black;
+    min-width: 300px;
+    min-height: 150px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
 
