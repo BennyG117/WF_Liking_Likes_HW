@@ -15,14 +15,5 @@ function add1(idx) {
 
 
 
-//!--checking status of repo//
 
-//var count = 3;
-// var likeCounter = document.querySelector("#likeCounter")
-
-// function add1() {
-//     count++;
-//     likeCounter.innerText = count + " likes";
-//     console.log(count);
-// }
 
